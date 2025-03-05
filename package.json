@@ -88,8 +88,6 @@
       "typescript": "^5.7.2",
       "vue-tsc": "^2.1.10",
       "ws": ">=8.17.1"
-    },
-    "patchedDependencies": {
     }
   }
 }
