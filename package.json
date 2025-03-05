@@ -90,7 +90,6 @@
       "ws": ">=8.17.1"
     },
     "patchedDependencies": {
-      "eslint-plugin-n8n-local-rules": "patches/eslint-plugin-n8n-local-rules.patch"
     }
   }
 }
